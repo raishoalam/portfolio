@@ -1,0 +1,420 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.banner-image {
+    width: 40px;
+    height: 40px;
+}
+
+#navbar-item1 {
+    color: white;
+    font-size: 18px;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+#navbar-item2 {
+    color: white;
+    font-size: 18px;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+#navbar-item3 {
+    color: white;
+    font-size: 18px;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+#navbar-item4 {
+    color: white;
+    font-size: 18px;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+#navbar-item5 {
+    color: white;
+    font-size: 18px;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+.navbar-banner-section {
+    background-color: #191a1d;
+    background-size: cover;
+    height: 100vh;
+}
+
+.navbar-banner-section-image {
+    width: 350px;
+    height: 320px;
+    padding-top: 40px;
+}
+
+.banner-section-heading {
+    font-family: "Roboto";
+    font-size: 50px;
+    font-weight: 500;
+    color: white;
+}
+
+.items {
+    font-family: "Roboto";
+    font-size: 50px;
+    font-weight: 500;
+    color: #4b6cc1;
+}
+
+.banner-section-description {
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: 500;
+    color: #9aa5b1;
+}
+
+.custom-buton {
+    border-radius: 5px;
+    border-width: 0px;
+    background-color: #4b6cc1;
+    border-style: solid;
+    color: white;
+    width: 120px;
+    height: 40px;
+}
+
+.about-section-bg-container {
+    background-color: #1f2933;
+    background-size: cover;
+
+}
+
+.about-section-heading {
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 600;
+    color: #cced00;
+}
+
+.about-section-heading1 {
+    font-family: "Roboto";
+    font-size: 60px;
+    font-weight: 600;
+    color: white;
+}
+
+
+.about-description {
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: 300;
+    color: #9aa5b1;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.skill-section {
+    background-color: #1f2933;
+}
+
+.skill-card {
+    background-color: #323f4b;
+    border-radius: 8px;
+    padding: 10px;
+
+}
+
+.skill-section-sub-heading {
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: 300;
+    color: #9aa5b1;
+}
+
+.skill-card-image {
+    width: 64px;
+    height: 64px;
+}
+
+.card-title {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+
+.about-me-section {
+    background-color: #1f2933;
+    background-size: cover;
+
+}
+
+.section-heading {
+    font-family: "roboto";
+    font-size: 20px;
+    font-weight: 500;
+    color: #cced00;
+}
+
+.section-card {
+    background-color: #323f4b;
+    width: 200px;
+    height: 150px;
+    border-radius: 10px;
+}
+
+.card-skillsimage {
+    width: 120px;
+    height: 100px;
+}
+
+.skills-heading {
+    font-family: "roboto";
+    font-size: 20px;
+    font-weight: 500;
+    color: #ffffff;
+}
+
+.portfolio-section {
+    background-color: #3e4c59;
+    background-size: cover;
+}
+
+.port-subheading {
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 500;
+    color: #cced00;
+}
+
+.port-heading {
+    font-family: "Roboto";
+    font-size: 50px;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+.port-card-section {
+    background-color: #323f4b;
+    border-radius: 10px;
+}
+
+
+
+.project-subheading {
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: 300;
+    color: #9aa5b1;
+    margin-left: 20px;
+}
+
+.project-heading {
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: 500;
+    color: #ffffff;
+    margin-left: 20px;
+}
+
+.project-desc {
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 300;
+    color: #9aa5b1;
+    margin-left: 20px;
+}
+
+.view-link {
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: 300;
+    color: #cced00;
+    margin-left: 20px;
+
+
+}
+
+.service-section {
+    background-color: #9aa5b1;
+    background-size: cover;
+
+}
+
+.service-subheading {
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: 500;
+    color: #cced00;
+}
+
+.service-heading {
+    font-family: "Roboto";
+    font-size: 40px;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+.service-card-section {
+    background-color: #323f4b;
+    border-radius: 10px;
+}
+
+.service-image {
+    width: 70px;
+    height: 60px;
+    padding-bottom: 10px;
+}
+
+.static-heading {
+    font-family: "Roboto";
+    font-size: 40px;
+    font-weight: 700;
+    color: #ffffff;
+    padding-left: 20px;
+}
+
+.static-desc {
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: 400;
+    color: #9aa5b1;
+    padding: 20px;
+}
+
+.work-image-section {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png");
+    background-size: cover;
+
+
+
+}
+
+.hr-line {
+    background-color: white;
+    width: 60px;
+}
+
+.work-done-card-title {
+    color: white;
+    font-family: "Roboto";
+    font-size: 36px;
+    font-weight: 900;
+}
+
+.work-done-card-sub-title {
+    color: white;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 100;
+}
+
+.work-links {
+    color: white;
+    width: 70px;
+    height: 70px;
+}
+
+.test-section {
+    background-color: #1f2933;
+    background-size: cover;
+
+}
+
+.test-subheading {
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: 500;
+    color: #cced00;
+}
+
+.test-heading {
+    font-family: "Roboto";
+    font-size: 40px;
+    font-weight: 600;
+    color: #ffffff;
+}
+
+.test-card-section {
+    background-color: #323f4b;
+}
+
+.text-image {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+
+
+}
+
+.test-desc {
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 200;
+    color: #9aa5b1;
+    padding: 20px;
+}
+
+.member-heading {
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 200;
+    color: #ffffff;
+    padding: 20px;
+}
+
+.footer-section {
+    background-color: #001c32;
+    background-size: cover;
+    height: 100vh;
+}
+
+.footer-image {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+
+.footer-heading {
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: 500;
+    color: #cced00;
+}
+
+.footer-desc {
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 500;
+    color: #9aa5b1;
+}
+
+.phone-links {
+    color: #9aa5b1;
+    width: 35px;
+    height: 20px;
+}
+
+.link-icons {
+    color: #959ead;
+    font-size: 20px;
+}
+
+.vr-footer-section-list {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.vr-footer-section-text {
+    color: #959ead;
+    font-size: 20px;
+    font-family: "Roboto";
+    font-weight: 300;
+}
+
+.copycrapt-section {
+    background-color: #0d2436;
+    background-size: cover;
+}
